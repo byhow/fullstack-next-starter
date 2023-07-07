@@ -480,29 +480,34 @@
   resolved "https://registry.npmjs.org/@types/mime/-/mime-1.3.2.tgz"
   integrity sha512-YATxVxgRqNH6nHEIsvg6k2Boc1JHI9ZbH5iWFFv/MTkchz3b1ieGDa5T0a9RznNdI0KhVbdbWSN+KWWrQZRxTw==
 
-"@types/node@*", "@types/node@^18.6.2":
-  version "18.6.2"
-  resolved "https://registry.npmjs.org/@types/node/-/node-18.6.2.tgz"
-  integrity sha512-KcfkBq9H4PI6Vpu5B/KoPeuVDAbmi+2mDBqGPGUgoL7yXQtcWGu2vJWmmRkneWK3Rh0nIAX192Aa87AqKHYChQ==
+"@types/node@*":
+  version "20.4.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.4.0.tgz#01d637d1891e419bc85763b46f42809cd2d5addb"
+  integrity sha512-jfT7iTf/4kOQ9S7CHV9BIyRaQqHu67mOjsIQBC3BKZvzvUB6zLxEwJ6sBE3ozcvP8kF6Uk5PXN0Q+c0dfhGX0g==
 
 "@types/node@^17.0.12":
   version "17.0.45"
-  resolved "https://registry.npmjs.org/@types/node/-/node-17.0.45.tgz"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.45.tgz#2c0fafd78705e7a18b7906b5201a522719dc5190"
   integrity sha512-w+tIMs3rq2afQdsPJlODhoUEKzFP1ayaoyl1CcnwtIlsVe7K7bA1NGm4s3PraqTLlXnbIN84zuBlxBWo1u9BLw==
+
+"@types/node@^18.6.2":
+  version "18.16.19"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.16.19.tgz#cb03fca8910fdeb7595b755126a8a78144714eea"
+  integrity sha512-IXl7o+R9iti9eBW4Wg2hx1xQDig183jj7YLn8F7udNceyfkbn1ZxmzZXuak20gR40D7pIkIY1kYGx5VIGbaHKA==
 
 "@types/prop-types@*":
   version "15.7.5"
-  resolved "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.5.tgz"
+  resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.5.tgz#5f19d2b85a98e9558036f6a3cacc8819420f05cf"
   integrity sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==
 
 "@types/qs@*":
   version "6.9.7"
-  resolved "https://registry.npmjs.org/@types/qs/-/qs-6.9.7.tgz"
+  resolved "https://registry.yarnpkg.com/@types/qs/-/qs-6.9.7.tgz#63bb7d067db107cc1e457c303bc25d511febf6cb"
   integrity sha512-FGa1F62FT09qcrueBA6qYTrJPVDzah9a+493+o2PCXsesWHIn27G98TsSMs3WPNbZIEj4+VJf6saSFpvD+3Zsw==
 
 "@types/range-parser@*":
   version "1.2.4"
-  resolved "https://registry.npmjs.org/@types/range-parser/-/range-parser-1.2.4.tgz"
+  resolved "https://registry.yarnpkg.com/@types/range-parser/-/range-parser-1.2.4.tgz#cd667bcfdd025213aafb7ca5915a932590acdcdc"
   integrity sha512-EEhsLsD6UsDM1yFhAvy0Cjr6VwmpMWqFBCb9w07wVugF7w9nfajxLuVmngTIpgS6svCnm6Vaw+MZhoDCKnOfsw==
 
 "@types/react-dom@^17.0.11":
