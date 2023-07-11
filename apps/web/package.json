@@ -23,7 +23,7 @@
     "next-transpile-modules": "9.0.0",
     "tsconfig": "*",
     "@types/node": "^18.0.0",
-    "@types/react": "17.0.62",
+    "@types/react": "18.2.14",
     "typescript": "^5.0.0"
   }
 }
