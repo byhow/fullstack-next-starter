@@ -20,7 +20,7 @@
     "@babel/core": "^7.0.0",
     "eslint": "8.49.0",
     "eslint-config-custom": "*",
-    "next-transpile-modules": "9.1.0",
+    "next-transpile-modules": "10.0.1",
     "tsconfig": "*",
     "@types/node": "^18.0.0",
     "@types/react": "18.2.22",
