@@ -10,9 +10,10 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "dependencies": {
-    "next": "12.3.4",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "eslint-config-next": "^13.5.4",
+    "next": "^13.5.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "swr": "^2.2.4",
     "ui": "*"
   },
@@ -22,7 +23,6 @@
     "@types/react": "18.2.24",
     "eslint": "8.50.0",
     "eslint-config-custom": "*",
-    "next-transpile-modules": "10.0.1",
     "tsconfig": "*",
     "typescript": "^5.0.0"
   }
