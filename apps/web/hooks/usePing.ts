@@ -3,7 +3,7 @@ import useSWR from "swr";
 
 export const useOwnedTokens = () => {
   const { data, error } = useSWR(`/api/ping`, (url: string) =>
-    fetch(url).then((res) => res.json())
+    fetch(url).then((res) => res.json()),
   );
 
   return {
