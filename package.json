@@ -16,9 +16,9 @@
   "devDependencies": {
     "eslint-config-custom": "*",
     "husky": "^8.0.1",
-    "lint-staged": "^14.0.0",
+    "lint-staged": "^15.0.1",
     "prettier": "latest",
-    "turbo": "latest"
+    "turbo": "1.10.15"
   },
   "engines": {
     "npm": ">=9.0.0",
