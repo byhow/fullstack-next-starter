@@ -18,7 +18,7 @@
     "husky": "^8.0.1",
     "lint-staged": "^15.0.1",
     "prettier": "latest",
-    "turbo": "1.11.2"
+    "turbo": "1.11.3"
   },
   "engines": {
     "npm": ">=9.0.0",
