@@ -17,7 +17,7 @@
     "eslint-config-custom": "*",
     "husky": "^9.0.0",
     "lint-staged": "^15.0.1",
-    "prettier": "latest",
+    "prettier": "^3.2.5",
     "turbo": "1.12.4"
   },
   "engines": {
