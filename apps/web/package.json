@@ -21,7 +21,7 @@
     "@babel/core": "^7.23.0",
     "@types/node": "^20.8.2",
     "@types/react": "18.2.58",
-    "eslint": "8.56.0",
+    "eslint": "8.57.0",
     "eslint-config-custom": "*",
     "tsconfig": "*",
     "typescript": "^5.0.0"
