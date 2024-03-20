@@ -1424,8 +1424,6 @@ escape-string-regexp@^4.0.0:
 
 eslint-config-next@^14.0.0:
   version "14.1.4"
-  resolved "https://registry.yarnpkg.com/eslint-config-next/-/eslint-config-next-14.1.4.tgz#22f2ba4c0993e991249d863656a64c204bae542c"
-  integrity sha512-cihIahbhYAWwXJwZkAaRPpUi5t9aOi/HdfWXOjZeUOqNWXHD8X22kd1KG58Dc3MVaRx3HoR/oMGk2ltcrqDn8g==
   dependencies:
     "@next/eslint-plugin-next" "14.1.4"
     "@rushstack/eslint-patch" "^1.3.3"
